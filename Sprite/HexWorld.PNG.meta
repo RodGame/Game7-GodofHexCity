@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: e9b27f419fffa3041a1a56f0129ad949
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: tile_BorealForest
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 420
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_TempForest
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_RainForest
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 393
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Snow
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 378
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Tundra
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 366
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Hills
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 352
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_GrassLand
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 340
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Plains
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Desert
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 316
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Marsh
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 378
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_WetLand
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 367
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Settlement
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Town
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 343
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_City
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 328
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_GrassLand
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 340
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Mountain
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_plowedField_dark
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_PlowedFiled_light
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Seeds
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Grass1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Grass2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 293
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_deepWater
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_shallowWater
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_wetSeed
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 281
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Veggie
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: tile_Wheat
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 281
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: EmptyCells
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 185
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
